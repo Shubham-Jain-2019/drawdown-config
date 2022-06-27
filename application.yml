@@ -1,3 +1,3 @@
 insurance:
   provider:
-    url: http://localhost:8081/insurance-service/v1/plans
+    url: http://localhost:8081/insurance-service/v2/plans
